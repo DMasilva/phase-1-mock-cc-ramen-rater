@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Lillian mzuri Sana",
+      "restaurant": "Za-Ya Ramen",
+      "image": "./assets/ramen/gyukotsu.jpg",
+      "rating": 8,
+      "comment": "Good to the last drop.",
+      "id": 6
+    },
+    {
+      "name": "DAVID ONYANGO OWUOR",
+      "restaurant": "La Licosa",
+      "image": "assets/ramen/gyukotsu.jpg",
+      "rating": "4",
+      "comment": "",
+      "id": 15
+    },
+    {
+      "name": "masilva",
+      "restaurant": "La Licosa",
+      "image": "assets/ramen/gyukotsu.jpg",
+      "rating": "9",
+      "comment": "good job",
+      "id": 17
     }
   ]
 }
