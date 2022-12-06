@@ -1,3 +1,4 @@
+
 // write your code here
 document.addEventListener('DOMContentLoaded',()=> {
     return fetch("http://localhost:3000/ramens")
@@ -21,6 +22,7 @@ function addImage(item){
     let img = document.createElement('img')
         img.addEventListener('click',e=>{
             menuDetails(item)
+
         })
         img.setAttribute('src',item.image)
         menu.appendChild(img)
@@ -61,3 +63,4 @@ document.querySelector('form').addEventListener('submit',(e)=>{
     })
     e.target.reset()
 })
+
